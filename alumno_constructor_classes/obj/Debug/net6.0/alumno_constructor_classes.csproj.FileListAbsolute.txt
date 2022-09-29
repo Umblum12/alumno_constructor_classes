@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\bin\Debug\net6.0\alumno_constructor_classes.exe
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\bin\Debug\net6.0\alumno_constructor_classes.deps.json
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\bin\Debug\net6.0\alumno_constructor_classes.runtimeconfig.json
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\bin\Debug\net6.0\alumno_constructor_classes.dll
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\bin\Debug\net6.0\alumno_constructor_classes.pdb
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.AssemblyInfo.cs
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.dll
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\refint\alumno_constructor_classes.dll
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.pdb
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\alumno_constructor_classes.genruntimeconfig.cache
+C:\Users\abela\source\repos\alumno_constructor_classes\alumno_constructor_classes\obj\Debug\net6.0\ref\alumno_constructor_classes.dll
